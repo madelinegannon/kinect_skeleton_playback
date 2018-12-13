@@ -1,4 +1,3 @@
-# README.md
 ## Kinect Skeleton Playback
 
 Simple app to playback Kinect V2 3D skeleton data recorded from [Kinectron](https://kinectron.github.io/) in openFrameworks.

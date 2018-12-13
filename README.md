@@ -8,4 +8,4 @@ Simple app to playback Kinect V2 3D skeleton data recorded from [Kinectron](http
 **Tested On:** [openFrameworks 0.9.8](https://openframeworks.cc/download/older/) and MSVS 2017
 
 
-(https://github.com/madelinegannon/kinect_skeleton_playback/blob/master/kinect_skeleton_playback.gif)
+![](https://github.com/madelinegannon/kinect_skeleton_playback/blob/master/kinect_skeleton_playback.gif)
